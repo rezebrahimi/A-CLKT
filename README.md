@@ -2,4 +2,4 @@
 
 Mohammadreza Ebrahimi, Sagar Samtani, Yidong Chai, Hsinchun Chen, Detecting Cyber Threats in Non-English Hacker Forums: An Adversarial Cross-Lingual Knowledge Transfer Approach, To appear in IEEE S&P Workshop on Deep Learning and Security, May 21, San Francisco.
 
-If you have any questions for the code please contact the corresponding authors.
+If you have any questions about the code please contact the corresponding authors.
